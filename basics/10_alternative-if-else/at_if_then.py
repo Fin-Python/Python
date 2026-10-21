@@ -33,7 +33,7 @@ def dictionarychain(tup):
         1: "Message 1",
         2: "Message 2",
         3: "Message 3", 
-        4: "message 4"
+        4: "Message 4"
     }
     print(dic[tup[0]])
 
